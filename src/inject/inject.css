@@ -1,0 +1,9 @@
+/**
+ * Place your custom CSS styles here.
+ **/
+
+.taas__highlight {
+    border-color: #FF0000;
+    border-width: 1px;
+    border-style: dashed;
+}
